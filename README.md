@@ -96,18 +96,9 @@ Architecting high-availability payment platforms, vendor-independent POS ecosyst
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=datikos&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datikos&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Contact
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/datikos
 
 ---
 
